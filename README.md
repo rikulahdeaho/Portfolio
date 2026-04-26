@@ -34,35 +34,20 @@ A habit tracking and reflection app focused on building better daily routines wi
 📸 Screenshots:  
 [ADD SCREENSHOTS HERE LATER]
 
----
 
-## 💼 Other Project
+## 🧩 Production Projects
 
-### 💻 JobTracker (React)
-
-A job application tracking app designed to help manage applications, deadlines, and follow-ups in a clear and structured way.
-
-**Highlights:**
-- Application tracking with status flow
-- Reminder and scheduling features
-- Dashboard for overview and insights
-
-🔗 GitHub:  
-[ADD LINK OR REMOVE IF PRIVATE]
-
----
-
-## 🧩 Client Work
-
-I have worked on real-world projects as part of a development team.
+Projects built and used in real environments as part of a development team.
 
 - https://startecon.fi/
+- https://karpon.fi/
 - https://gesli.fi/
 
-**My contribution:**
-- Frontend development
-- UI implementation
-- Collaboration with backend and design
+**My role:**
+- Implemented React-based user interfaces from design specifications
+- Built responsive and accessible layouts
+- Structured reusable components for maintainability
+- Integrated basic backend functionality (e.g. logging and forms)
 
 ---
 
