@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Riku Lähdeaho
 
-Frontend-focused Fullstack Developer (React, React Native, .NET)
+📍 Helsinki, Finland
 
-I build modern, user-focused applications with strong attention to usability, structure, and clean code.
+Fullstack Developer with a focus on React, React Native, and .NET
+
+Focused on clear user flows, maintainable architecture, and practical, real-world applications.
 
 ---
 
@@ -10,75 +12,69 @@ I build modern, user-focused applications with strong attention to usability, st
 
 ### 📱 Dayforge (React Native / Expo)
 
-A habit tracking and reflection app focused on building better daily routines with a clean and premium user experience.
+A mobile app designed to help users build consistent daily habits and reflect on their progress.
+
+Focus on clarity, simplicity, and daily usability instead of feature-heavy tracking.
+
+**Status:**
+- Actively developed personal project
 
 **Key features:**
 - Daily habit tracking with progress overview
 - Reflection system for weekly improvement
-- Clean and minimal UI with focus on usability
+- Clean and minimal UI
 
 **Tech stack:**
 - React Native (Expo)
 - TypeScript
-- [ADD: state management if used, e.g. Zustand / Context API]
-- [ADD: any libraries you used]
+- Context API
 
 **My role:**
-- Designed and implemented the full UI
-- Built reusable component structure
-- Focused on UX flow and clarity
+- Designed and built the application end-to-end
+- Structured reusable components and state logic
+- Focused on user flow, performance, and clarity
 
-🔗 GitHub:  
-[ADD LINK TO DAYFORGE REPO]
+🔗 GitHub: https://github.com/rikulahdeaho/Dayforge
 
-📸 Screenshots:  
-![Dayforge Demo](./Dayforge.gif)
+📸 Demo:  
+![Dayforge Demo](./assets/dayforge.gif)
 
+---
 
 ## 🧩 Production Projects
 
-Projects built and used in real environments as part of a development team.
+Web applications built and deployed as part of a professional development work.
 
-- https://startecon.fi/
-- https://startecon.fi/
-- https://gesli.fi/
+- [Startecon](https://startecon.fi/) – Company website
+- [Karpon](https://karpon.fi/) – SaaS product landing
+- [Gesli](https://gesli.fi/) – Data platform website
 
-**My role:**
-- Implemented React-based user interfaces from design specifications
-- Built responsive and accessible layouts
-- Structured reusable components for maintainability
-- Integrated basic backend functionality (e.g. logging and forms)
+**My contribution:**
+- Built React-based user interfaces from design specifications
+- Implemented responsive layouts across devices
+- Structured maintainable component architecture
+- Integrated backend endpoints (e.g. forms, logging)
+- Collaborated closely with designers
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-- React
-- React Native (Expo)
-- JavaScript / TypeScript
-- HTML / CSS
-
-**Backend**
-- C# / .NET
-- REST APIs
-
-**Database**
-- SQL (SQL Server)
+- React, React Native (Expo)
+- TypeScript, JavaScript
+- C# / .NET (ASP.NET), REST APIs
+- SQL Server
 
 ---
 
 ## 🎯 What I focus on
 
-- Clean and maintainable code
-- Good component structure
-- User-friendly and intuitive interfaces
-- Building real, usable products — not just demos
+- Clear and simple user flows
+- Maintainable component structure
+- Turning designs into working, responsive interfaces
+- Building real-world applications, not just demos
 
 ---
 
 ## 📫 Contact
-
-- Email: [ADD EMAIL]
-- LinkedIn: [ADD LINKEDIN]
-- GitHub: https://github.com/[yourusername]
+- GitHub: https://github.com/rikulahdeaho
