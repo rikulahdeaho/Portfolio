@@ -75,6 +75,3 @@ Web applications built and deployed as part of a professional development work.
 - Building real-world applications, not just demos
 
 ---
-
-## Contact
-- GitHub: https://github.com/rikulahdeaho
