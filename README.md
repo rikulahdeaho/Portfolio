@@ -8,9 +8,9 @@ Focused on clear user flows, maintainable architecture, and practical, real-worl
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
-### 📱 Dayforge (React Native / Expo)
+### Dayforge (React Native / Expo)
 
 A mobile app designed to help users build consistent daily habits and reflect on their progress.
 
@@ -36,12 +36,12 @@ Focus on clarity, simplicity, and daily usability instead of feature-heavy track
 
 🔗 GitHub: https://github.com/rikulahdeaho/Dayforge
 
-📸 Demo:  
+Demo:  
 ![Dayforge Demo](./assets/Dayforge.gif)
 
 ---
 
-## 🧩 Production Projects
+## Production Projects
 
 Web applications built and deployed as part of a professional development work.
 
@@ -58,7 +58,7 @@ Web applications built and deployed as part of a professional development work.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - React, React Native (Expo)
 - TypeScript, JavaScript
@@ -67,7 +67,7 @@ Web applications built and deployed as part of a professional development work.
 
 ---
 
-## 🎯 What I focus on
+## What I focus on
 
 - Clear and simple user flows
 - Maintainable component structure
@@ -76,5 +76,5 @@ Web applications built and deployed as part of a professional development work.
 
 ---
 
-## 📫 Contact
+## Contact
 - GitHub: https://github.com/rikulahdeaho
