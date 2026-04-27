@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Riku Lähdeaho
 
-📍 Helsinki, Finland
+📍 Vantaa, Finland
 
 Fullstack Developer with a focus on React, React Native, and .NET
 
