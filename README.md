@@ -37,7 +37,7 @@ Focus on clarity, simplicity, and daily usability instead of feature-heavy track
 🔗 GitHub: https://github.com/rikulahdeaho/Dayforge
 
 📸 Demo:  
-![Dayforge Demo](./assets/dayforge.gif)
+![Dayforge Demo](./assets/Dayforge.gif)
 
 ---
 
