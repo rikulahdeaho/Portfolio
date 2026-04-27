@@ -39,9 +39,9 @@ A habit tracking and reflection app focused on building better daily routines wi
 
 Projects built and used in real environments as part of a development team.
 
-- https://startecon.fi/
-- https://karpon.fi/
-- https://gesli.fi/
+- [(https://startecon.fi/)](https://startecon.fi/){:target="_blank"}
+- [(https://startecon.fi/)](https://karpon.fi/){:target="_blank"}
+- [(https://startecon.fi/)](https://gesli.fi/){:target="_blank"}
 
 **My role:**
 - Implemented React-based user interfaces from design specifications
