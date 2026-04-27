@@ -42,6 +42,7 @@ Projects built and used in real environments as part of a development team.
 - [(https://startecon.fi/)](https://startecon.fi/){:target="_blank"}
 - [(https://startecon.fi/)](https://karpon.fi/){:target="_blank"}
 - [(https://startecon.fi/)](https://gesli.fi/){:target="_blank"}
+- Click [here](https://www.geeksforgeeks.org/){:target="_blank"} to visit GeeksForGeeks website.
 
 **My role:**
 - Implemented React-based user interfaces from design specifications
