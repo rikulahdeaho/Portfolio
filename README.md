@@ -32,7 +32,7 @@ A habit tracking and reflection app focused on building better daily routines wi
 [ADD LINK TO DAYFORGE REPO]
 
 📸 Screenshots:  
-[ADD SCREENSHOTS HERE LATER]
+![Dayforge Demo](./assets/Dayforge.gif)
 
 
 ## 🧩 Production Projects
