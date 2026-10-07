@@ -41,6 +41,48 @@ Demo:
 
 ---
 
+### JobTracker — React / .NET
+
+A full-stack job search management application for tracking applications, statuses, next actions, and the overall recruitment process.
+
+Built as a practical tool for managing an active job search instead of relying on spreadsheets or scattered notes.
+
+**Status:**
+- Actively developed and deployed personal project
+
+**Key features:**
+- Track job applications through different recruitment stages
+- Manage statuses, notes, and next actions
+- User authentication and user-specific application data
+- Cloud-hosted frontend, API, and PostgreSQL database
+
+**Tech stack:**
+- React
+- TypeScript
+- Material UI
+- ASP.NET Core / .NET
+- Entity Framework Core
+- PostgreSQL
+- Clerk authentication
+- Vercel
+- Railway
+
+**My role:**
+- Designed and built the full-stack application end-to-end
+- Implemented React UI and application workflows
+- Built REST API endpoints with ASP.NET Core
+- Designed database models and EF Core migrations
+- Implemented authentication and user-specific data access
+- Deployed the application using Vercel, Railway, and Neon PostgreSQL
+
+🔗 GitHub: [https://github.com/rikulahdeaho/JobTracker-V2]([https://startecon.fi/](https://github.com/rikulahdeaho/JobTracker-V2))
+
+🔗 Live app: [https://job-tracker-nine-bay.vercel.app/](https://job-tracker-nine-bay.vercel.app/)
+
+---
+
+---
+
 ## Production Projects
 
 Web applications built and deployed as part of a professional development work.
